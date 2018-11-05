@@ -1,3 +1,3 @@
 # gitskill
 
-git is good
+git is good & simple
